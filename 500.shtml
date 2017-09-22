@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Plotter Print &mdash; Error</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="http://www.plotterprint.bo/css/a.css">
+        <link rel="icon" type="image/png" href="http://www.plotterprint.bo/favicon.png" />
+    </head>
+<html>    
+    <body id="error">
+        <div id="error-header">
+            <a href="http://www.plotterprint.bo/"><img width="198" height="30" class="logo_top" src="http://www.plotterprint.bo/img/logo.png"></a>
+        </div>
+        
+        <h1 class="error-title">Error 500</h1>
+        <p class="error-txt">Error del servidor</p>
+        <a class="error-link" href="javascript:location.reload(true)">Por favor haz click aqu&iacute; para intentar de nuevo</a>
+    </body>
+</html>
