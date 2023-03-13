@@ -44,7 +44,7 @@ html {
 
 h1 {
   margin: 0 0 30px 0;
-  color: #23282f;
+  color: #f0f0f0;
   font: 22px "Ubuntubold", Arial, Helvetica, sans-serif;
 }
 
@@ -93,7 +93,7 @@ main {
     display: flex;
     flex-direction: column;
     height: 100%;
-    /* background: #f0f0f0 url(../img/bgindex_4.jpg) center center fixed no-repeat; */
+    background: #f0f0f0 url(../img/intro_c_copy.jpg) center center fixed no-repeat;
     background-color: #f0f0f0;
     background-size: cover;
     padding: 60px 70px;
@@ -107,12 +107,12 @@ main {
   ========================================================================== */
 
 .logo-fill-drop {
-    fill: #23282f;
+    fill: #97c940;
     transition: fill 0.3s ease-in-out;
 }
 
 .logo-fill {
-  fill: #23282f;
+  fill: #f0f0f0;
   transition: fill 0.3s ease-in-out;
 }
 
@@ -150,7 +150,7 @@ nav ul li:last-of-type {
 }
 
 nav ul li a {
-    color: #23282f;
+    color: #f0f0f0;
     font: 14px "Montserratbold", Arial, Helvetica, sans-serif;
     text-decoration: none;
     transition: all 0.3s ease-in-out;
@@ -161,7 +161,7 @@ nav ul li a:hover {
 }
 
 .nav-active {
-    color: #23282f;
+    color: #f0f0f0;
     font: 14px "Montserratbold", Arial, Helvetica, sans-serif;
     padding-top: 2px;
     text-decoration: underline;
@@ -175,7 +175,7 @@ nav ul li a:hover {
 }
 
 .introduction-brief {
-    color: #23282f;
+    color: #f0f0f0;
     font: 15px "Ubuntubold", Arial, Helvetica, sans-serif;    
     margin-top: 0;
     margin-bottom: 40px;
@@ -183,7 +183,7 @@ nav ul li a:hover {
 }
 
 .introduction-address {
-    color: #23282f;
+    color: #f0f0f0;
     font: 14px/20px "Ubunturegular", Arial, Helvetica, sans-serif;
     margin-top: 0;
     margin-bottom: 40px;
@@ -241,7 +241,7 @@ nav ul li a:hover {
 .servicios-column p {
   flex: 1;
   margin: 0 0 25px 0;
-  color: #23282f;
+  color: #f0f0f0;
   font: 14px/22px "Ubunturegular", Arial, Helvetica, sans-serif;
 }
 
@@ -266,7 +266,7 @@ nav ul li a:hover {
 
 #servicios-envio p {
     margin: 0;
-    color: #23282f;
+    color: #f0f0f0;
     font: 14px/22px "Ubunturegular", Arial, Helvetica, sans-serif;
 }
 
@@ -279,7 +279,7 @@ nav ul li a:hover {
   ========================================================================== */
 
 .address-short {
-    color: #23282f;
+    color: #f0f0f0;
     font: 16px "Ubunturegular", Arial, Helvetica, sans-serif;
     text-align: center;
     margin-top: 0;
@@ -310,13 +310,13 @@ iframe {
 }
 
 #contact-card p:first-of-type {
-  color: #23282f;
+  color: #f0f0f0;
   font: 18px "Ubuntubold", Arial, Helvetica, sans-serif;
   margin: 0 0 42px 0;
 }
 
 #contact-card p:last-of-type {
-  color: #23282f;
+  color: #f0f0f0;
   font: 17px "Ubunturegular", Arial, Helvetica, sans-serif;
   margin: 0;
 }
@@ -338,9 +338,9 @@ iframe {
 
 #horarios-box {
   display: flex;
-  background-color: #23282f;
-  padding: 10px 60px;
-  border-radius: 45px;
+  background-color: #3dae5a;
+  padding: 15px 70px;
+  border-radius: 51px;
 }
 
 #horarios-box-week {
@@ -367,7 +367,7 @@ iframe {
 
 #horarios > p {
   text-align: center;
-  color: #23282f;
+  color: #f0f0f0;
   font: 16px "Ubuntubold", Arial, Helvetica, sans-serif;
 }
 
